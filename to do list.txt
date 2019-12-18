@@ -1,0 +1,11 @@
+fr
+- changer les adresse pour des chaine de caractere enregistrée dans des variable
+- chercher d'autre infos a recuperer sur l'utilisateur
+- ammeliorer la portabilité du code.
+
+en
+- set adresse and string into convenient variable
+- ad endpoint user info panel easy and ready to use 
+- improve code ready-portability and re-useability like a plug and play component.
+
+
